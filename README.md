@@ -8,6 +8,9 @@
   <a href="https://moopa.live">Moopa Anime Streaming Website</a>
 </h1>
 
+> [!WARNING]  
+> ⚠️ Repository No Longer Maintained ⚠️
+
 <p align="center">
   <i>Migrating to typescript! More active development <a href="https://github.com/Ani-Moopa/Moopa/tree/beta">on the beta branch</a></i>
 
